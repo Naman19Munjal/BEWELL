@@ -42,7 +42,7 @@ function startGame() {
         // Append <img> to <li>
         liTag.appendChild(addImage);
         // Set the img src path with the shuffled deck
-        addImage.setAttribute("src", "imgages/" + shuffledDeck[i]);
+        addImage.setAttribute("src", "images/" + shuffledDeck[i]);
         // Add an alt tag to the image
         addImage.setAttribute("alt", "image of vault boy from fallout");
         // Update the new <li> to the deck <ul>
