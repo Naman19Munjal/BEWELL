@@ -37,7 +37,7 @@ Game starts with some musical note that has to be copied by the user by clicking
 ## Covid Tracker :
 * BeWell Covid Tracker include statistics like recovery rates and testing rates along with total cases, positivity rates and death rates which not only keeps user updated with all the information but also develops a feeling of motivation by observing the high recovery rates and declining positivity rates not only highlighting the negative information. 
 * Also, there is piechart plotted by using Google Charts API showing the current status of COVID cases which clearly displays that recovery rate is much higher than the mortality rate which develops a positive feeling in user.<br>
-<img src="screenshots/CovidTracker-1.jpeg" width="450" height="400"> <img src="screenshots/CovidTracker-2.jpeg" width="450" height="400">
+<img src="screenshots/CovidTracker-1.jpeg" width="400" height="300"> <img src="screenshots/CovidTracker-2.jpeg" width="400" height="300">
 
 ## Fun Quiz :
 * This section is basically for kids to learn about COVID and its related terms by while playing unscrambling game. It is not only a great way to make them learn about COVID but also helps to boost their working memory.
