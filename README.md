@@ -14,17 +14,23 @@ According to recent studies there has been 41% increase in anxiety disorders cas
 1. **Card Matching :** Tests the memory of the user. <br>
 *How to play?* <br>
 On the game board, there are always two identical images. User starts the game by flipping a card. Then try to find another card that has the same image as the first. If pair is not found, the flipped cards will be flipped back with the face down. User needs to remember these images as it becomes easier to find pairs quickly. When user finds a pair they are removed from the board and when all pairs are found, level will be completed and time will be recorded. <br>
-![Card Matching](screenshots/Match_the_Cards.jpeg "Match the Cards")
+<div align="center">
+<img src="screenshots/Match_the_Cards.jpeg" width="500" align="center">
+ </div>
 
 2. **Track the Ball :** Tests the concentration power of the user. <br>
 *How to play?* <br>
 Game starts with ball shown in one of the three containers and then the containers are shuffled and user needs to select the container having the ball. If correct container is selected then user win and score is increased else user lost the game. User needs to concentrate on the required container while shuffling to predict the right container at last.
-![Track the Ball](screenshots/Track_the_ball.jpeg "Track the Ball")
+<div align="center">
+<img src="screenshots/Track_the_ball.jpeg" width="500">
+</div>
 
 3. **Simon :** Tests the attention span of the user. <br>
 *How to play?* <br>
 Game starts with some musical note that has to be copied by the user by clicking on different colored divisions. For each correct click user earns the score and for any wrong click game will get over and final score will be generated. Score represents the amount of time for which user was able to keep the attention on the board and remember the notes.
-![Simon](screenshots/Simon.jpeg "Simon")
+<div align="center">
+<img src="screenshots/Simon.jpeg" width="500">
+</div>
 
 
 ***Critical Scores are set after consulting the professionals and referring to their blogs and articles.***
@@ -41,7 +47,9 @@ Game starts with some musical note that has to be copied by the user by clicking
 
 ## Fun Quiz :
 * This section is basically for kids to learn about COVID and its related terms by while playing unscrambling game. It is not only a great way to make them learn about COVID but also helps to boost their working memory.
-![Fun Quiz](screenshots/Quiz.jpeg "Quiz")
+<div align="center">
+<img src="screenshots/Quiz.jpeg" width="500">
+</div>
 
 ***Whenever user logins to the app and play any of the psychological game tests his/her result is stored with his profile and he/she can refer to previously stored results anytime in future by just logging in the app. This way user can track progress or improvement in his/her mental health conditions.***
 
