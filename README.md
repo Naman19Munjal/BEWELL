@@ -37,8 +37,22 @@ Game starts with some musical note that has to be copied by the user by clicking
 
 ## Solutions :
 1. **Meditation App :**
+
+<div align="center">
+ <img src="screenshots/Meditation.jpeg" width="500">
+</div>
+
 2. **Exercise Recommendations :**
+
+<div align="center">
+ <img src="screenshots/Exercise.jpeg" width="500">
+</div>
+
 3. **Do and Don't tips :**
+
+<div align="center">
+ <img src="screenshots/Do.jpeg" width="400"><img src="screenshots/Don't.jpeg" width="400">
+</div>
 
 ## Covid Tracker :
 * BeWell Covid Tracker include statistics like recovery rates and testing rates along with total cases, positivity rates and death rates which not only keeps user updated with all the information but also develops a feeling of motivation by observing the high recovery rates and declining positivity rates not only highlighting the negative information. 
