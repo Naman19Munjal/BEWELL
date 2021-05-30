@@ -78,3 +78,6 @@ Game starts with some musical note that has to be copied by the user by clicking
 ## API Reference :
 - [Google Charts API](https://www.gstatic.com/charts/loader.js)
 - [Covid Tracking API](https://corona.lmao.ninja/v2/countries/India?strict&query%20) 
+
+## Idea Presentation :
+Link : https://drive.google.com/file/d/1h3G3srjNW8v2_pKt_zOSTokg7wWewkQe/view?usp=sharing
